@@ -1,0 +1,19 @@
+{
+  "name": "text-in-transit",
+  "version": "1.0.0",
+  "description": "The challenge is to build a fixed-width, right-to-left text scroller capable of taking a string parameter and screen width as inputs. Seems simple, right?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natasha-mann/text-in-transit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natasha-mann/text-in-transit/issues"
+  },
+  "homepage": "https://github.com/natasha-mann/text-in-transit#readme"
+}
